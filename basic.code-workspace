@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\basic"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BanderoGus"
+	}
+}
